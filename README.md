@@ -1,5 +1,7 @@
 # Tyler-neals-portfolio
 
+![tyler's portfolio page](./assets/images/porthomework.png)
+
 ## desription 
 
 a portfolio website for me!
